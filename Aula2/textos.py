@@ -55,5 +55,5 @@ print(primeiro_nome)
 
 mensagem_personalizada = f"O Usuario {primeiro_nome} foi cadastrado com sucessso com o email {email}"
 print(mensagem_personalizada)
-
+ 
 
